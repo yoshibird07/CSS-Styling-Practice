@@ -7,6 +7,14 @@ p{
 h2{
     font-family: verdana;
 }
-li{
+.item1 {
     color: brown
+}
+
+.item2{
+    color: blue
+}
+
+.item3{
+    color: red
 }
